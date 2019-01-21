@@ -64,10 +64,12 @@ p {
 	line-height: 23px;
 	letter-spacing: 0.2px;
 	color: #797979;
+	
 }
 
 .dark-bg p {
 color: #B1B1B1;	
+
 }
 
 a:hover, a:focus, a:active, a.active {
@@ -319,7 +321,7 @@ header .intro-text .intro-heading {
 	font-size: 15px;
 	font-weight: 300;
 	line-height: 25px;
-	margin: 20px 100px 60px 100px;
+	margin: 20px 5px 60px 5px;
 }
 
 /*--------------------
